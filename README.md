@@ -1,6 +1,6 @@
 # tool-description injection vs Claude 4.x / 5
 
-Receipts for [this post](https://lumebuilds.substack.com/): 800 runs of the
+Receipts for [this post](https://lumebuilds.substack.com/p/i-ran-800-attacks-against-claude): 800 runs of the
 [MCPTox](https://github.com/zhiqiangwang4/MCPTox-Benchmark) benchmark
 (tool-*description* poisoning, not tool-result injection) against Claude Opus 5,
 Opus 4.8, Sonnet 5 and Haiku 4.5.
